@@ -1,1 +1,3 @@
-# Hotel_Management_System_Database_Project
+For database mysql has been used.
+
+This is the copy of the database project of my database course in University.

@@ -11,7 +11,7 @@ Services that can be managed from this website is:
 4.See Bills
 5.Payment in Online (Demo)
 
-Language: HTML , CSS , Javascript , SQL 
+Language: PHP, HTML , CSS , Javascript , SQL 
 
 Software Required: Xampp
 

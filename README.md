@@ -15,5 +15,3 @@ Language: PHP, HTML , CSS , Javascript , SQL
 
 Software Required: Xampp
 
-For more info contact rahul108sk@gmail.com
-

@@ -1,17 +1,21 @@
-### Online Hotel Management System ###
+# Online Hotel Management System
 
-Description: 
+## Description 
 
 A database project for managing the daily services on hotel in online.
 Services that can be managed from this website is:
 
-1.Room Booking
-2.Ordering food
-3.Ordering for Services
-4.See Bills
-5.Payment in Online (Demo)
+* Room Booking
+* Ordering food
+* Ordering for Services
+* See Bills
+* payment in Online (Demo)
 
-Language: PHP, HTML , CSS , Javascript , SQL 
+## Language 
 
-Software Required: Xampp
+PHP, HTML , CSS , Javascript , SQL 
+
+## Software Required: 
+
+Xampp
 
